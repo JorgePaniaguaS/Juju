@@ -83,4 +83,3 @@ module.exports = router;
  *                     type: string
  */
 
-// Y así sucesivamente para otros endpoints.
